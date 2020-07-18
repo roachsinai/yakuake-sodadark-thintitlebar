@@ -8,9 +8,9 @@ Comment=tabset-background is 28px while tab-active is 25px high, so we copy the 
 [Tabs]
 x=22
 y=0
-red=240
-green=240
-blue=241
+red=235
+green=219
+blue=178
 selected_background=/tabs/tab-active-bg.png
 selected_left_corner=/tabs/tab-active-bg.png
 selected_right_corner=/tabs/tab-active-bg.png
